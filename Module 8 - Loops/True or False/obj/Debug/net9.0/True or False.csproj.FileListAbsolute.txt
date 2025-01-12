@@ -1,0 +1,5 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 8 - Loops\True or False\obj\Debug\net9.0\True or False.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 8 - Loops\True or False\obj\Debug\net9.0\True or False.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 8 - Loops\True or False\obj\Debug\net9.0\True or False.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 8 - Loops\True or False\obj\Debug\net9.0\True or False.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 8 - Loops\True or False\obj\Debug\net9.0\True or False.sourcelink.json

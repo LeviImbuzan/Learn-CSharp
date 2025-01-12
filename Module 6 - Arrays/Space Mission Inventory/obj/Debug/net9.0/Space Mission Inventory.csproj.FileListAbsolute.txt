@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\bin\Debug\net9.0\Space Mission Inventory.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\bin\Debug\net9.0\Space Mission Inventory.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\bin\Debug\net9.0\Space Mission Inventory.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\bin\Debug\net9.0\Space Mission Inventory.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\bin\Debug\net9.0\Space Mission Inventory.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\refint\Space Mission Inventory.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\Space Mission Inventory.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 6 - Arrays\Space Mission Inventory\obj\Debug\net9.0\ref\Space Mission Inventory.dll

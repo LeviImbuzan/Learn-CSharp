@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\bin\Debug\net9.0\Choose Your Own Adventure.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\bin\Debug\net9.0\Choose Your Own Adventure.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\bin\Debug\net9.0\Choose Your Own Adventure.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\bin\Debug\net9.0\Choose Your Own Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\bin\Debug\net9.0\Choose Your Own Adventure.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\refint\Choose Your Own Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\Choose Your Own Adventure.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 7 - Conditionals\Choose Your Own Adventure\obj\Debug\net9.0\ref\Choose Your Own Adventure.dll
