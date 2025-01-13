@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\bin\Debug\net9.0\Office Inventory Management System.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\bin\Debug\net9.0\Office Inventory Management System.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\bin\Debug\net9.0\Office Inventory Management System.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\bin\Debug\net9.0\Office Inventory Management System.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\bin\Debug\net9.0\Office Inventory Management System.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\refint\Office Inventory Management System.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\Office Inventory Management System.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 9 - Lists\Office Inventory Management System\obj\Debug\net9.0\ref\Office Inventory Management System.dll
