@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\bin\Debug\net9.0\Money Maker.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\bin\Debug\net9.0\Money Maker.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\bin\Debug\net9.0\Money Maker.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\bin\Debug\net9.0\Money Maker.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\bin\Debug\net9.0\Money Maker.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\refint\Money Maker.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\Money Maker.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 3 - Numbers and Operators\Money Maker\obj\Debug\net9.0\ref\Money Maker.dll

@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\bin\Debug\net9.0\Space Expedition Boolean Adventure.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\bin\Debug\net9.0\Space Expedition Boolean Adventure.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\bin\Debug\net9.0\Space Expedition Boolean Adventure.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\bin\Debug\net9.0\Space Expedition Boolean Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\bin\Debug\net9.0\Space Expedition Boolean Adventure.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\refint\Space Expedition Boolean Adventure.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\Space Expedition Boolean Adventure.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 5 - Logic\Space Expedition Boolean Adventure\obj\Debug\net9.0\ref\Space Expedition Boolean Adventure.dll

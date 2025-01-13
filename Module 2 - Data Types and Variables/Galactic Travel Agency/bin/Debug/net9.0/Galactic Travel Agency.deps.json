@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Galactic Travel Agency/1.0.0": {
+        "runtime": {
+          "Galactic Travel Agency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Galactic Travel Agency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

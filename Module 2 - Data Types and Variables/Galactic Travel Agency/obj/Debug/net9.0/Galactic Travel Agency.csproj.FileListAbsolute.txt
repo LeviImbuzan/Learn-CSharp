@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\bin\Debug\net9.0\Galactic Travel Agency.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\bin\Debug\net9.0\Galactic Travel Agency.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\bin\Debug\net9.0\Galactic Travel Agency.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\bin\Debug\net9.0\Galactic Travel Agency.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\bin\Debug\net9.0\Galactic Travel Agency.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\refint\Galactic Travel Agency.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\Galactic Travel Agency.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 2 - Data Types and Variables\Galactic Travel Agency\obj\Debug\net9.0\ref\Galactic Travel Agency.dll

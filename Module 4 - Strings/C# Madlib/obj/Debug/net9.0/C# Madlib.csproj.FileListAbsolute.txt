@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\bin\Debug\net9.0\C# Madlib.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\bin\Debug\net9.0\C# Madlib.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\bin\Debug\net9.0\C# Madlib.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\bin\Debug\net9.0\C# Madlib.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\bin\Debug\net9.0\C# Madlib.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\refint\C# Madlib.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\C# Madlib.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 4 - Strings\C# Madlib\obj\Debug\net9.0\ref\C# Madlib.dll

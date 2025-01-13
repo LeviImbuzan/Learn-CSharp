@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\bin\Debug\net9.0\ASCII Art.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\bin\Debug\net9.0\ASCII Art.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\bin\Debug\net9.0\ASCII Art.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\bin\Debug\net9.0\ASCII Art.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\bin\Debug\net9.0\ASCII Art.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\refint\ASCII Art.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ASCII Art.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 1 - Getting Started\ASCII Art\obj\Debug\net9.0\ref\ASCII Art.dll
