@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\bin\Debug\net9.0\Architect Arithmetic.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\bin\Debug\net9.0\Architect Arithmetic.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\bin\Debug\net9.0\Architect Arithmetic.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\bin\Debug\net9.0\Architect Arithmetic.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\bin\Debug\net9.0\Architect Arithmetic.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\refint\Architect Arithmetic.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\Architect Arithmetic.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 10 - Methods\Architect Arithmetic\obj\Debug\net9.0\ref\Architect Arithmetic.dll

@@ -1,0 +1,15 @@
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\bin\Debug\net9.0\Stellar Lifecycle Simulator.exe
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\bin\Debug\net9.0\Stellar Lifecycle Simulator.deps.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\bin\Debug\net9.0\Stellar Lifecycle Simulator.runtimeconfig.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\bin\Debug\net9.0\Stellar Lifecycle Simulator.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\bin\Debug\net9.0\Stellar Lifecycle Simulator.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.AssemblyInfoInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.AssemblyInfo.cs
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.csproj.CoreCompileInputs.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.sourcelink.json
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\refint\Stellar Lifecycle Simulator.dll
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.pdb
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\Stellar Lifecycle Simulator.genruntimeconfig.cache
+C:\Users\imbuz\Documents\GitHub\Learn-CSharp\Module 11 - Classes\Stellar Lifecycle Simulator\obj\Debug\net9.0\ref\Stellar Lifecycle Simulator.dll
